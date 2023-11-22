@@ -6,17 +6,17 @@ public class QuizApplication {
 
         // Quiz questions and options
         String[] questions = {
-            "1. What is the capital of France?",
-            "2. Which planet is known as the Red Planet?",
-            "3. What is the largest mammal on Earth?",
+            "1. What is the capital of India?",
+            "2. Who wrote the national Indian anthem?",
+            "3. Which festival is also  known as the festival of colours?",
             "4. In which year did World War II end?",
             "5. Who wrote 'Romeo and Juliet'?"
         };
 
         String[][] options = {
-            {"A. London", "B. Paris", "C. Berlin", "D. Rome"},
-            {"A. Venus", "B. Mars", "C. Jupiter", "D. Saturn"},
-            {"A. Elephant", "B. Blue Whale", "C. Giraffe", "D. Dolphin"},
+            {"A. Nagpur, "B. New Delhi", "C. Mumbai", "D. Chennai"},
+            {"A. LalBahadur Shastri ", "B. Rabindranath Tagore", "C. Mahatma Gandhi", "D. Sardar Vallabhai Patel"},
+            {"A. Gauri Pujan", "B. Holi ", "C. Diwali", "D. Padawa"},
             {"A. 1943", "B. 1945", "C. 1950", "D. 1960"},
             {"A. William Shakespeare", "B. Jane Austen", "C. Charles Dickens", "D. Mark Twain"}
         };
